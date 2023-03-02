@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+.header{
+
+    color: blue;
+    font-size:150px
+}
